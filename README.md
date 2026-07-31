@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrey Shevchenko! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Andrei Shevchenko! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
 ## **About me**
@@ -6,9 +6,8 @@
 <br>
 
 - A computer science student
-- Currently studying data science & machine learning
+- Currently working in network engineering
 - Always open to new experiences
-- Will definitely become a godly coder
 
 <br><br>
 
